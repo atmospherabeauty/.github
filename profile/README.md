@@ -26,6 +26,6 @@ Our formulas are designed to simplify routines and support the skin's natural re
 
 ## Connect
 
-- **Web:** [atmospherabeauty.com](https://atmospherabeauty.com)
-- **Shop:** [Climate-curated skincare](https://atmospherabeauty.com/shop)
-- **Our story:** [About Atmosphera](https://atmospherabeauty.com/about)
+- **Web:** [atmospherabeauty.us](https://atmospherabeauty.us)
+- **Shop:** [Climate-curated skincare](https://atmospherabeauty.us/shop)
+- **Our story:** [About Atmosphera](https://atmospherabeauty.us/about)
